@@ -1,3 +1,30 @@
+Enter the number of elements: 5
+Enter 5 numbers:
+5
+2
+3
+4
+7
+Mean = 4.20
+
+
+
+
+
+
+
+Enter number of elements: 5
+Enter 5 elements: 5 6 4 9 8
+Standard deviation is = 1.85
+
+
+
+
+
+
+
+
+
 Enter size of Set A: 5
 Enter elements of Set A:
 Element 1: 1
@@ -15,6 +42,8 @@ Duplicate found! Enter a different value.
 Element 3: 4
 
 Union of Set A and Set B is: { 1, 2, 5, 6, 4, 3 }
+
+
 
 
 
@@ -47,6 +76,8 @@ Set Difference (A - B): { 5, 2, 3, 4}
 
 
 
+
+
 Enter size of Set A: 5
 
 Enter elements of Set A:
@@ -64,3 +95,14 @@ Element 2: 5
 Element 3: 4
 
 Intersection of Set A and Set B: { 5, 3}
+
+
+
+
+
+
+
+
+Enter 5 numbers: 5 4 3 6 1
+
+Median = 4.00
