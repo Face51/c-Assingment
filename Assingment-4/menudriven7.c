@@ -55,7 +55,7 @@ int main() {
                 printf("Reversed string: %s\n", str1);
                 break;
 
-            case 5:
+            case 5:                                                        //////////////start///////////
                 printf("Enter first string: ");
                 gets(str1);
                 printf("Enter second string: ");
@@ -134,4 +134,5 @@ int mystrcomp(char str1[], char str2[]) {
         i++;
     }
     return str1[i] - str2[i];
+
 }
