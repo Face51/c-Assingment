@@ -1,1 +1,108 @@
 
+------ MENU ------
+1. Factorial of a number
+2. Fibonacci series up to n terms
+3. GCD of two numbers
+4. Sum of first n natural numbers
+5. Exit
+Enter your choice: 1
+Enter a number: 5
+Factorial of 5 = 120
+
+------ MENU ------
+1. Factorial of a number
+2. Fibonacci series up to n terms
+3. GCD of two numbers
+4. Sum of first n natural numbers
+5. Exit
+Enter your choice: 2
+Enter number of terms: 10
+Fibonacci Series: 0 1 1 2 3 5 8 13 21 34 
+
+------ MENU ------
+1. Factorial of a number
+2. Fibonacci series up to n terms
+3. GCD of two numbers
+4. Sum of first n natural numbers
+5. Exit
+Enter your choice: 3
+Enter two numbers: 34 51
+GCD of 34 and 51 = 17
+
+------ MENU ------
+1. Factorial of a number
+2. Fibonacci series up to n terms
+3. GCD of two numbers
+4. Sum of first n natural numbers
+5. Exit
+Enter your choice: 3
+Enter two numbers: 12 12
+GCD of 12 and 12 = 12
+
+------ MENU ------
+1. Factorial of a number
+2. Fibonacci series up to n terms
+3. GCD of two numbers
+4. Sum of first n natural numbers
+5. Exit
+Enter your choice: 4
+Enter a number: 8
+Sum of first 8 natural numbers = 36 
+
+------ MENU ------
+1. Factorial of a number
+2. Fibonacci series up to n terms
+3. GCD of two numbers
+4. Sum of first n natural numbers
+5. Exit
+Enter your choice: 5
+Exiting program...
+
+
+
+
+
+
+
+
+
+
+
+Enter two numbers (a and b): 10 20
+
+Initial values: a = 10, b = 20
+[Call by Value]
+Before Swap: x = 10, y = 20
+After Swap:  x = 20, y = 10
+
+After Call by Value : a = 10, b = 20
+[Call by Reference]
+Before Swap: x = 10, y = 20
+After Swap:  x = 20, y = 10
+
+After Call by Reference : a = 20, b = 10
+
+
+
+
+
+
+
+
+Pointer to Constant:
+ptr1 points to a = 10
+After changing address, ptr1 now points to b = 20
+
+Constant Pointer:
+ptr2 points to a = 10
+After modifying value through ptr2, a = 25
+
+
+
+
+
+
+Enter two numbers: 10 30 
+
+Before Swapping: x = 10, y = 30
+After Swapping : x = 30, y = 10
