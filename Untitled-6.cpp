@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cctype>   // for tolower()
+#include <cctype>   // for tolower() and isalpha()
 using namespace std;
 
 int main() {
@@ -8,14 +8,15 @@ int main() {
     cout << "Enter a character: ";
     cin >> ch;
 
-    // Convert character to lowercase
-    ch = tolower(ch);
-
-    // Check for vowels
-    if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
-        cout << "The character is a Vowel.";
+    if (isalpha(ch)) {           // Check if it's a letter
+        ch = tolower(ch);        // Convert to lowercase
+        if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
+            cout << "The character is a Vowel.";
+        } else {
+            cout << "The character is a Consonant.";
+        }
     } else {
-        cout << "The character is a Consonant.";
+        cout << "The character is not an alphabet letter.";
     }
 
     return 0;
