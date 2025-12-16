@@ -1,0 +1,195 @@
+Done
+
+
+
+
+
+
+
+Initial position: 0
+Character read: H
+Position after reading one character: 1
+Position after fseek(): 6
+Character after fseek: C
+Position after rewind(): 0
+First character after rewind: H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enter details of person 1
+Age: 15
+Weight: 85
+
+Enter details of person 2
+Age: 16
+Weight: 64
+
+Enter details of person 3
+Age: 20
+Weight: 58
+
+Enter details of person 4
+Age: 14
+Weight: 50
+
+Enter details of person 5
+Age: 17
+Weight: 57
+
+Enter details of person 6
+Age: 18
+Weight: 59
+
+Enter details of person 7
+Age: 45
+Weight: 48
+
+Enter details of person 8
+Age: 12
+Weight: 53
+
+Enter details of person 9
+Age: 15
+Weight: 29
+
+Enter details of person 10
+Age: 19
+Weight: 58
+
+--- Person Details ---
+Person 1 -> Age: 15, Weight: 85.00
+Person 2 -> Age: 16, Weight: 64.00
+Person 3 -> Age: 20, Weight: 58.00
+Person 4 -> Age: 14, Weight: 50.00
+Person 5 -> Age: 17, Weight: 57.00
+Person 6 -> Age: 18, Weight: 59.00
+Person 7 -> Age: 45, Weight: 48.00
+Person 8 -> Age: 12, Weight: 53.00
+Person 9 -> Age: 15, Weight: 29.00
+Person 10 -> Age: 19, Weight: 58.00
+
+
+
+
+
+
+
+
+
+
+
+
+Enter number of elements: 5
+Enter 5 elements:
+6
+5
+
+4
+3
+2
+Array elements are:
+6 5 4 3 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enter number of elements: 5
+Enter 5 elements:
+5
+4
+
+3
+2
+1
+
+--- MENU ---
+1. Insert
+2. Delete
+3. Exit
+Enter your choice: 1
+Enter position (0 to 5): 6
+Invalid position
+Array elements: 5 4 3 2 1
+
+--- MENU ---
+1. Insert
+2. Delete
+3. Exit
+Enter your choice: 2
+Enter position (0 to 4): 3
+Array elements: 5 4 3 1 
+
+--- MENU ---
+1. Insert
+2. Delete
+3. Exit
+Enter your choice: 1
+Enter position (0 to 4): 3
+Enter value to insert: 2
+Array elements: 5 4 3 2 1 
+
+--- MENU ---
+1. Insert
+2. Delete
+3. Exit
+Enter your choice: 3
+Exiting program...
+
+
+
+
+
+
+
+
+
+
+Enter a character: 7
+The character is not an alphabet letter.
+
+
+Enter a character: o
+The character is a Vowel.
+
+
+
+
+
+
+
+
+Enter number of rows: 5
+    *
+   ***
+  *****
+ *******
+*********
+
+
+
+
+
+
+
+Enter value of x: 10
+Value of x = 10
